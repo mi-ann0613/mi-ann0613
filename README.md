@@ -95,7 +95,7 @@
 <div align="center">
   <h3 align="center">DevOps</h3>
   <img
-    src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=whitee"
+    src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"
     alt="Git"
   />
   <img
@@ -133,29 +133,29 @@
   />
 </div>
 
+<h1 align="center">GitHub Statistics</h1>
+
+<div align="center">
+  
+  <p align="center">
+    <img alt="Miscca's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=mi-ann0613&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    <img alt="Miscca's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mi-ann0613&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
+  <br/>
+  
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=mi-ann0613&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  </p>
+    
+  <br>
+  <br>
+</div>
+
 <br>
 <br>
 
 <!--
-<h1 align="center">GitHub Statistics</h1>
-
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api?username=MiAnn0613&count_private=true&show_icons=true&theme=dracula" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiAnn0613&layout=compact&theme=dracula&langs_count=10&hide=shell,less,dockerfile,jinja" />
-  </a>
-  <a href="https://git.io/streak-stats">
-    <img align="center" width="500px" src="http://github-readme-streak-stats.herokuapp.com?user=MiAnn0613&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-  </a>
-  <br>
-  <br>
-  <div>
-    <p>Profile views since 11/21/2021:</p>
-    <p><img alingn="center" src="https://profile-counter.glitch.me/raphaelalmeidamartins/count.svg"></p>
-  </div>
-</div>
+<p align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Bear Miscca's streak" src="https://streak-stats.demolab.com/?user=UnityDev2104627&theme=monokai-metallian&hide_border=true"/>
+</p>
 
 Here are some ideas to get you started:
 
