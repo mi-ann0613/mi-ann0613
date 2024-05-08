@@ -39,7 +39,7 @@
     alt="Material UI"
   />
   <img
-    src="https://img.shields.io/badge/Tailwnd%20CSS-F7DF1E?style=for-the-badge&logo=tailwindcss&logoColor=black"
+    src="https://img.shields.io/badge/Tailwnd%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"
     alt="Tailwnd CSS"
   />
 </div>
@@ -47,11 +47,11 @@
 <div align="center">
   <h3 align="center">Back-end</h3>
   <img
-    src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white"
     alt="Node.js"
   />
   <img
-    src="https://img.shields.io/badge/NestJS-007ACC?style=for-the-badge&logo=nestjs&logoColor=white"
+    src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
     alt="NestJS"
   />
   <img
@@ -63,39 +63,39 @@
     alt="Python"
   />
   <img
-    src="https://img.shields.io/badge/PHP-007ACC?style=for-the-badge&logo=php&logoColor=white"
+    src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
     alt="PHP"
+  />
+  <img
+    src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
+    alt="Solidity"
   />
 </div>
 
 <div align="center">
   <h3 align="center">Database management</h3>
   <img
-    src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
     alt="MySQL"
   />
   <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
     alt="PostgreSQL"
   />
   <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"
     alt="MongoDB"
   />
   <img
-    src="https://img.shields.io/badge/Mongoose-4EA94B?style=for-the-badge&logo=mongoose&logoColor=white"
-    alt="Mongoose"
-  />
-  <img
-    src="https://img.shields.io/badge/Solidity-4EA94B?style=for-the-badge&logo=solidity&logoColor=white"
-    alt="Solidity"
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"
+    alt="Firebase"
   />
 </div>
 
 <div align="center">
   <h3 align="center">DevOps</h3>
   <img
-    src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=whitee"
+    src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=whitee"
     alt="Git"
   />
   <img
@@ -103,12 +103,16 @@
     alt="Docker"
   />
   <img
-    src="https://img.shields.io/badge/Zira-F24E1E?style=for-the-badge&logo=jira&logoColor=white"
+    src="https://img.shields.io/badge/Zira-0052CC?style=for-the-badge&logo=jira&logoColor=white"
     alt="Zira"
   />
   <img
-    src="https://img.shields.io/badge/Azura-F24E1E?style=for-the-badge&logo=acura&logoColor=white"
+    src="https://img.shields.io/badge/Azura-000000?style=for-the-badge&logo=acura&logoColor=white"
     alt="Azura"
+  />
+  <img
+    src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=acura&logoColor=white"
+    alt="AWS"
   />
   <img
     src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
@@ -120,11 +124,11 @@
 
 <div align="center">
   <img
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"
+    src="https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=openjdk&logoColor=white"
     alt="Java"
   />
   <img
-    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=flutter&logoColor=white"
+    src="https://img.shields.io/badge/Flutter-02569B?&style=for-the-badge&logo=flutter&logoColor=white"
     alt="Flutter"
   />
 </div>
