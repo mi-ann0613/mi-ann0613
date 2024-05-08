@@ -1,6 +1,10 @@
 <div align="center">
-  <h1 align="center">Proficient full-stack developer</h1>
+  <h1 align="center">Introduction</h1>
+
+  A proficient full stack developer
 </div>
+
+<br>
 
 <h2 align="center">Skills</h2>
 
