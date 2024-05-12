@@ -1,7 +1,10 @@
 <div align="center">
   <h1 align="center">Introduction</h1>
 
-  A proficient full stack developer
+  Experienced full-stack developer with 5+ years of experiences in developing both front-end and back-end development. 
+  <br>
+  Proven track record in improving load times by 25%, increasing user engagement by 15%, boosting sales by 30%, accelerating project completion speed by 10% and improving performance by 30%. 
+  Collaborative team player with expertise in managing the software development life cycle and delivering projects on time. Experienced in implementing and integrating Generative AI, Data Analysis and Blockchain.
 </div>
 
 <br>
