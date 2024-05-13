@@ -70,8 +70,16 @@
     alt="Python"
   />
   <img
+    src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django"
+  />
+  <img
     src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"
     alt="PHP"
+  />
+  <img
+    src="https://img.shields.io/badge/Laravel-777BB4?style=for-the-badge&logo=laravel&logoColor=white"
+    alt="Laravel"
   />
   <img
     src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"
