@@ -140,6 +140,18 @@
   />
 </div>
 
+<div align="center">
+  <h3 align="center">Other</h3>
+  <img
+    src="https://img.shields.io/badge/Web3.js-F05032?style=for-the-badge&logo=web3dotjs&logoColor=white"
+    alt="Web3.js"
+  />
+  <img
+    src="https://img.shields.io/badge/GraphQL-%230db7ed.svg?style=for-the-badge&logo=graphql&logoColor=white"
+    alt="GraphQL"
+  />
+</div>
+
 <h2 align="center">Learning</h2>
 
 <div align="center">
